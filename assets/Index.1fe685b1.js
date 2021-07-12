@@ -1,0 +1,1 @@
+import{d as a,o as s,c as d,s as e}from"./vendor.7c5cb966.js";var o=a({setup:()=>({})});const r=e()(((a,e,o,r,t,c)=>(s(),d("div",null," 404 "))));o.render=r,o.__scopeId="data-v-6de812aa";export default o;
